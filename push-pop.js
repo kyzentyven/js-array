@@ -8,7 +8,7 @@ numbers.push(23, 25);
 
 console.log(numbers);
 
-const friends = [Khalid, Ovi, Tawfek, Jim];
+const friends = ['Khalid', 'Ovi', 'Tawfek', 'Jim'];
 console.log(friends);
 
 friends.pop();
